@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+
+alias dckls='docker container ps'
+alias dckla='docker container ps --all'
+alias dckb='docker build'
+alias dckp='docker pull'
+alias dckr='docker container run'
+alias dckrit='docker container run -it'
+alias dockpt='docker port'
+alias dcklo='docker container logs'
+alias dckstt='docker start'
+alias dckstop='docker stop'
+alias dckrest='docker  restart'
+alias dckins='docker inspect'

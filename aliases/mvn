@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+alias mvtest='mvn test'
+alias mvcompile='mvn compile'
+alias mvclean='mvn clean'
+alias mvpack='mvn package'
+alias mvspgr='mvn spring-boot:run'
+alias mvdocker='mvn spring-boot:run -Pdocker-compose -Dspring-boot.run.profiles=docker-compose'

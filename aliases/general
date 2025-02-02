@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+alias la='ls --color -a'
+alias ll='ls --color -la'
+alias mv='mv -v'
+alias src='source ~/.bashrc'
+alias bashconfig='vim ~/.bashconfig'
